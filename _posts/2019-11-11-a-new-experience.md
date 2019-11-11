@@ -1,6 +1,6 @@
 ---
-title: A better Hello World
-tags: [Software Development]
+title: A New Experience
+tags: [Software Development, Job Experience]
 style: fill
 color: dark
 description: A different “hello world” to demonstrate language features better.
