@@ -1,17 +1,15 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Software Engineer, TD Bank Canada
+  from: 2019
+  to: Present
+  description: While being under the Technology Rotational program at TD,
+               I had the opportunity to explore different parts of TD. The
+               experience had been extremely fufilling. I've been in
+               Payments Innovation, Dev-Ops, and am currently with the
+               Android App Team.
 
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Software Engineering Intern, IBM Canada
+  from: 2016
+  to: 2017
+  description: I was very lucky to be able to spend 16 months with IBM Canada for
+               my third year university internship. The experience had taught me how
+               to work outside of my comfort zone.

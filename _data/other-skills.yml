@@ -1,7 +1,11 @@
-- name: Adobe Photoshop
-  percentage: 95
-  color: info
-
-- name: Adobe Illustrator
+- name: Overwatch
   percentage: 90
   color: success
+
+- name: Instagram
+  percentage: 80
+  color: success
+
+- name: Photography
+  percentage: 60
+  color: info

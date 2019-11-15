@@ -2,6 +2,6 @@
 name: Overwatch Toronto
 tools: [Jekyll, HTML, CSS]
 image: https://www.sketchappsources.com/resources/source-image/project-neon-groove-music-ui.png
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+description: Help maintain the website and keep the information up to date
 external_url: http://overwatchtoronto.org/
 ---
