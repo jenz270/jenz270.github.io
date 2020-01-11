@@ -1,10 +1,10 @@
-- name: Overwatch
-  percentage: 90
-  color: success
-
 - name: Instagram
   percentage: 80
   color: success
+
+- name: Cooking
+  percentage: 60
+  color: info
 
 - name: Photography
   percentage: 60
