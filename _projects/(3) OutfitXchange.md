@@ -2,7 +2,7 @@
 name: OutfitXchange
 tools: [Android, Material Design, Kotlin, Backend]
 image: /assets/projects/outfitXchange.png
-description: A color selector to help users pick a set of colors to wear based on the weather of the week.
+description: An Android application to facilitate high-end luxury item rentals.
 external_url: https://github.com/jenz270/outfitXchange
 ---
 
