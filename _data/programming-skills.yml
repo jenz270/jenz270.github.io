@@ -21,3 +21,7 @@
 - name: Javascript
   percentage: 40
   color: dark
+
+- name: NodeJS
+  percentage: 40
+  color: dark
