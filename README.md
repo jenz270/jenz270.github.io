@@ -17,6 +17,4 @@ bundle exec jekyll serve
 ## Site Preview - Screenshot
 
 This is a snapshot of the website:
-```
-TO BE UPLOADED
-```
+![website image](https://paste.pics/30f196565a289842ccd42ebe2d9bdb8a)
