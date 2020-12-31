@@ -8,7 +8,8 @@ Forked from YoussefRaafatNasry/portfolYOU
 Make sure to install jekyll, then run the below command:
 
 ```
-python -m SimpleHTTPServer 8000
+bundle install
+bundle exec jekyll serve
 ```
 
 ----
