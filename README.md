@@ -1,7 +1,22 @@
-<div align="center">
-    <i>Jieni Hou's portfolio page. View the page <a href="http://jienihou.ca"> here.</a></i><br><br>
-</div>
+# iamjieni.com
+Static site for [iamjieni.com](http://iamjieni.com/)
 
-<div align="center">
-    <sub><sup>© 2019 portfolYOU, licensed under the <a href="./LICENSE">MIT License</a>.</sup></sub>
-</div>
+## Site Theme Credits
+Forked from YoussefRaafatNasry/portfolYOU 
+
+## Running the page locally
+Make sure to install jekyll, then run the below command:
+
+```
+bundle install
+bundle exec jekyll serve
+```
+
+----
+
+## Site Preview - Screenshot
+
+This is a snapshot of the website:
+```
+TO BE UPLOADED
+```
