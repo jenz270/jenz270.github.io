@@ -17,4 +17,4 @@ bundle exec jekyll serve
 ## Site Preview - Screenshot
 
 This is a snapshot of the website:
-![website_image](https://github.com/jenz270/jenz270.github.io/website-sample.png?raw=true)
+![website_image](website-sample.png)
