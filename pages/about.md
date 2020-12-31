@@ -7,7 +7,7 @@ weight: 3
 
 # **About Me**
 
-A Software Engineer with various backgrounds in development including Full Stack Web Development, Mobile Development and Dev Ops. Currently working at TD Canada as an Associate Software Developer. Always looking out for new opportunities to expand my interests and field knowledge.
+A Software Engineer with various backgrounds in development including Full Stack Web Development, Mobile Development and Dev Ops. Currently working at League as an Android Engineer. Always looking out for new opportunities to expand my interests and field knowledge.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}

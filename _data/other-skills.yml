@@ -9,3 +9,7 @@
 - name: Photography
   percentage: 60
   color: info
+
+- name: Twitch
+  percentage: 30
+  color: dark
